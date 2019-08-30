@@ -1,0 +1,3 @@
+class LineChart extends Chart {
+    
+}
